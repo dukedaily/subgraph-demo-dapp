@@ -1,0 +1,13 @@
+{
+  "main.css": "/subgraph-demo-dapp/static/css/main.b79557a5.chunk.css",
+  "main.js": "/subgraph-demo-dapp/static/js/main.9e06044b.chunk.js",
+  "main.js.map": "/subgraph-demo-dapp/static/js/main.9e06044b.chunk.js.map",
+  "runtime~main.js": "/subgraph-demo-dapp/static/js/runtime~main.b2c9b6f8.js",
+  "runtime~main.js.map": "/subgraph-demo-dapp/static/js/runtime~main.b2c9b6f8.js.map",
+  "static/js/2.bcbcf9b1.chunk.js": "/subgraph-demo-dapp/static/js/2.bcbcf9b1.chunk.js",
+  "static/js/2.bcbcf9b1.chunk.js.map": "/subgraph-demo-dapp/static/js/2.bcbcf9b1.chunk.js.map",
+  "index.html": "/subgraph-demo-dapp/index.html",
+  "precache-manifest.b42779a37a6384af9ad2f4e33495caa4.js": "/subgraph-demo-dapp/precache-manifest.b42779a37a6384af9ad2f4e33495caa4.js",
+  "service-worker.js": "/subgraph-demo-dapp/service-worker.js",
+  "static/css/main.b79557a5.chunk.css.map": "/subgraph-demo-dapp/static/css/main.b79557a5.chunk.css.map"
+}
