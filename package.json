@@ -1,5 +1,5 @@
 {
-  "name": "example-subgraph",
+  "name": "subgraph-demo-dapp",
   "version": "0.1.0",
   "scripts": {
     "codegen": "graph codegen",

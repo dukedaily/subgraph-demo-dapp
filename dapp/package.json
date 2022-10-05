@@ -1,11 +1,13 @@
 {
-  "name": "ethdenver-dapp",
+  "name": "subgraph-demo-dapp",
+  "homepage": "https://dukedaily.github.io/subgraph-demo-dapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "@material-ui/icons": "^3.0.2",
     "apollo-boost": "^0.1.28",
+    "gh-pages": "^4.0.0",
     "graphql": "^14.1.1",
     "react": "^16.8.2",
     "react-apollo": "^2.4.1",
@@ -16,7 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
