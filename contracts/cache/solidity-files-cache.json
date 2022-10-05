@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/duke.du/Documents/00-blockchain-expert/subgraph-demo-hardhat/contracts/contracts/Gravity.sol": {
+      "lastModificationDate": 1664941849697,
+      "contentHash": "8bdadb18a2aaeeca37202aa5d3dc039b",
+      "sourceName": "contracts/Gravity.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "=0.8.10"
+      ],
+      "artifacts": [
+        "GravatarRegistry"
+      ]
+    }
+  }
+}
