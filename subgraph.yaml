@@ -8,9 +8,9 @@ dataSources:
     name: Gravity
     network: goerli
     source:
-      address: '0x7977787f82c2379A082113354B9d5Ea3310c5265'
+      address: '0x48d2825f3238db40797dF659C97188d289401311'
       abi: Gravity
-      startBlock: 7714162
+      startBlock: 7715322
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.5

@@ -19,10 +19,10 @@ contract GravatarRegistry {
   function createGravatar(string memory _displayName, string memory _imageUrl) public {
     require(ownerToGravatar[msg.sender] == 0);
     gravatars.push(Gravatar(msg.sender, _displayName, _imageUrl));
-    uint id = gravatars.length - 1;
+    uint id = gravatars.length;
+    ownerToGravatar[msg.sender] = id;
 
     gravatarToOwner[id] = msg.sender;
-    ownerToGravatar[msg.sender] = id;
 
     emit NewGravatar(id, msg.sender, _displayName, _imageUrl);
   }
