@@ -4,7 +4,7 @@
 
 通过学习本文，将全面掌握如何搭建graphnode，创建部署subgraph，以及如何与合约前端结合展示，通过一个完整的dapp案例，展示dapp开发的全部流程
 
-背景知识，subgraph是什么，另见文章: https://dukedaily.github.io/solidity-expert/07_subgraph/01_%E6%A6%82%E8%BF%B0.html
+背景知识，subgraph是什么，[点击查看]( https://dukedaily.github.io/solidity-expert/07_subgraph/01_%E6%A6%82%E8%BF%B0.html)
 
 - 本文代码：https://github.com/dukedaily/subgraph-demo
 
